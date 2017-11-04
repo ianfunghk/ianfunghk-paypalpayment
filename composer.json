@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-0": {
-            "ianfunghk\\paypalpayment": "src/"
+            "Ianfunghk\\Paypalpayment": "src/"
         }
     },
     "minimum-stability": "dev"
